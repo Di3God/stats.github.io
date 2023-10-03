@@ -1,0 +1,16 @@
+---
+title: "Estadística"
+author: "DieGod"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](imagen/portada.jpg)
+
+### Mi primer Video en Youtube
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLIfMdEcj_8?si=Zo7HlH9JobMIV_Hq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 

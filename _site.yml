@@ -1,0 +1,12 @@
+
+name: "website"
+output_dir: "."
+navbar:
+  title: "Estadistica"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Info"
+      href: info.html
+
+
